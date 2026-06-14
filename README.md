@@ -14,18 +14,35 @@ I work on production-oriented AI systems where reasoning quality, structured out
 
 ## Core Stack
 
+**AI / ML**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat&logo=huggingface&logoColor=111111)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+**Agents / RAG**
+
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-111827?style=flat)
 ![CrewAI](https://img.shields.io/badge/CrewAI-111827?style=flat)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat&logo=qdrant&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-111827?style=flat)
+
+**Engineering**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Azure Databricks](https://img.shields.io/badge/Azure_Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-087EA4?style=flat&logo=react&logoColor=white)
+
+**AI Development Tools**
+
+![Windsurf](https://img.shields.io/badge/Windsurf-111827?style=flat&logo=windsurf&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-111827?style=flat&logo=openai&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-191919?style=flat&logo=anthropic&logoColor=white)
 
 ## Featured Engineering Themes
 
@@ -37,19 +54,6 @@ I work on production-oriented AI systems where reasoning quality, structured out
 | Document intelligence pipelines | OCR, PDF/image ingestion, structured JSON extraction, schema validation, and human-reviewable outputs. |
 | AI agent evaluations | Test cases for agent behavior, structured output checks, tracing, regression detection, and failure analysis. |
 | Applied ML foundations | NLP/CV pipelines, anomaly detection, recommendation systems, clustering, and FAISS-based similarity search. |
-
-## Portfolio Direction
-
-Public demo repositories are being shaped around sanitized, reproducible versions of real engineering problems:
-
-- `agentic-claim-adjudicator`
-- `llm-guardrails-lab`
-- `crewai-qdrant-memory-lab`
-- `document-ai-ocr-pipeline`
-- `ai-agent-evals-observability`
-- `classic-ml-lab`
-
-Each repo is intended to include a clear problem statement, architecture notes, quickstart, example outputs, tests, design decisions, limitations, and a roadmap.
 
 ## Currently Exploring
 
